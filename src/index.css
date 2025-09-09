@@ -1,11 +1,11 @@
 @import "tailwindcss";
 @font-face {
   font-family: f1;
-  src: url(./assets/fonts/Lausanne-300.woff2);
+  src: url(/public/fonts/Lausanne-300.woff2);
 }
 @font-face {
   font-family: f2;
-  src: url(./assets/fonts/Lausanne-500.woff2);
+  src: url(/public/fonts/Lausanne-500.woff2);
 }
 
 @keyframes anim1 {
